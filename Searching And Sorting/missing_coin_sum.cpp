@@ -11,7 +11,20 @@ using namespace std;
 
 void solve()
 {
-    
+    ll n, tillNow = 0;
+    cin >> n;
+    vector<ll> a(n);
+    for (ll i = 0; i < n; i++)
+        cin >> a[i];
+    sort(a.begin(), a.end());
+    for (ll x : a)
+    {
+        if (tillNow + 1 < x)
+            break;
+        else
+            tillNow += x;
+    }
+    cout << tillNow + 1 << nl;
 }
 int main()
 {
