@@ -14,3 +14,6 @@
 4. Missing Coin Sum
 5. Subarray Sums 2
 6. Sum of 3 values
+
+## Dynamic Programming
+1. 
