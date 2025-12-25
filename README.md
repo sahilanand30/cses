@@ -16,4 +16,4 @@
 6. Sum of 3 values
 
 ## Dynamic Programming
-1. 
+1. Minimizing Coins
