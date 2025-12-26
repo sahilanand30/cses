@@ -15,5 +15,5 @@
 5. Subarray Sums 2
 6. Sum of 3 values
 
-## Dynamic Programming
-1. Minimizing Coins
+## Dynamic Programming 
+1. Revise all problems
