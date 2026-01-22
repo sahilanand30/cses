@@ -23,3 +23,6 @@
 
 ## Tree Algorithms
 1. Revise all problems
+
+## Mathematica
+1. Revise all problems
